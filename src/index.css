@@ -8,3 +8,18 @@
   min-height: calc(100vh - 130px);
   padding: 1.5rem 0;
 }
+
+.input-field{
+ position: relative; 
+}
+
+.btn{
+  position: absolute;
+  right: 0;
+  top: 5px;
+}
+
+label{
+  margin-left: 10px;
+}
+
